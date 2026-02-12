@@ -1,0 +1,8 @@
+Academic-Performance-AI-Agent/
+│
+├── app.py
+├── model.py
+├── data_sample.csv
+├── requirements.txt
+├── architecture.png   (optional – you can draw later)
+└── README.md
